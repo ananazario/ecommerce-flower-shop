@@ -1,2 +1,19 @@
-# ecommerce-flower-shop
-Projeto de um  E-Commerce de flores, feito em equipe com as linguagens Html5, CSS3 e JavaScript.
+# E-Commerce Flower Shop
+
+## Descrição
+    Este é um projeto feito com colaboração, com o intuito de treinar tanto habilidades tecnicas, com as linguagens mencionadas abaixo, quando trabalho em equipe, gerenciamento de tempo e git/github.
+
+
+## Processo
+
+    •	Marcação semântica HTML5
+    •	Propriedades personalizadas de CSS3
+    •	Flexbox  
+    •	Design responsivo
+
+
+## Design
+
+###  Desktop e Responsivo
+<img src="images\e-commerce-desktop-responsivo.gif" alt="imagem do desktop">
+
